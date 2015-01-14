@@ -1,0 +1,15 @@
+{
+  "name": "Meta CPAN redirect",
+  "description": "Redirect search.cpan.org to search.mcpan.org",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {"scripts":["background.js"]},
+  "permissions": [
+    "webRequest",
+    "*://search.cpan.org/*",
+    "webRequestBlocking"
+  ],
+  "icons": { 
+	"128": "logo_440x280.png" 
+  }
+}
