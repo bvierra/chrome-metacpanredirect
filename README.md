@@ -5,6 +5,6 @@ A plugin to redirect from search.cpan.org to metacpan (without redirect notifica
 
 Installation
 ------
-Currently the app is awaiting Google approval (will update once this has been completed)
+Recommended way to download is directly from the Google Chrome Web Store: https://chrome.google.com/webstore/detail/meta-cpan-redirect/blakeebdldmplhhegjofiaidnijmiphj
 
 You can also grab it directly from: https://github.com/bvierra/chrome-metacpanredirect/releases/tag/1.1.1
